@@ -149,9 +149,11 @@
 }
 .theme-dark .navbar-light .navbar-brand .logo1 {
   display: none;
+  color: #ffffff;
 }
 .theme-dark .navbar-light .navbar-brand .logo2 {
   display: inline-block;
+  color: #ffffff;
 }
 .theme-dark .main-navbar-area {
   background-color: #252525;
@@ -188,18 +190,22 @@
 }
 .theme-dark .mobile-nav .mobile-brand .logo1 {
   display: none;
+  color: #ffffff;
 }
 .theme-dark .mobile-nav .mobile-brand .logo2 {
   display: inline-block;
+  color: #ffffff;
 }
 .theme-dark .main-responsive-menu {
   position: relative;
 }
 .theme-dark .main-responsive-menu .logo .logo1 {
   display: none;
+  color: #ffffff;
 }
 .theme-dark .main-responsive-menu .logo .logo2 {
   display: inline-block;
+  color: #ffffff;
 }
 .theme-dark .main-responsive-nav {
   background-color: #252525;
@@ -338,3 +344,9 @@
 .theme-dark .coming-soon-section .coming-soon-box {
   background-color: #1d1d1d;
 }/*# sourceMappingURL=theme-dark.css.map */
+
+
+
+.theme-dark .contact-section .info-content .content-list h6 a {
+  color: #ffffff !important;
+}

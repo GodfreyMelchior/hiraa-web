@@ -962,7 +962,8 @@ textarea.form-control {
 }
 .home-banner-area .banner-content p {
   font-size: 18px;
-  color: #39325a;
+  /* color: #39325a; */
+  color: #090031;
   margin-bottom: 35px;
 }
 .home-banner-area .search-form .select-box {
