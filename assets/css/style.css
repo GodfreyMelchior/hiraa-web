@@ -4782,7 +4782,7 @@ textarea.form-control {
   transition: all 1s;
   background: transparent;
   border-radius: 50px;
-  border: 3px solid #fd5056;
+  border: 3px solid #55191d;
   overflow: hidden;
 }
 #loading .loader:after {
@@ -4793,7 +4793,7 @@ textarea.form-control {
   height: 100%;
   width: 100%;
   border-radius: 50px;
-  background: #fd5056;
+  background: #55191d;
   animation: loaderBar 1s infinite linear;
 }
 @keyframes loaderBar {
