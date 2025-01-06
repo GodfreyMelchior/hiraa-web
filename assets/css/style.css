@@ -1163,7 +1163,7 @@ textarea.form-control {
 }
 .home-banner-area.home-style-two .owl-carousel .owl-nav button[class*=owl-] {
   position: absolute;
-  top: 50%;
+  top: 80%;
   transform: translateY(-50%);
   background: #c7b571;
   color: #ffffff;
@@ -1252,7 +1252,7 @@ textarea.form-control {
 }
 .home-banner-area.home-style-three .owl-carousel .owl-nav button[class*=owl-] {
   position: absolute;
-  top: 50%;
+  top: 80%;
   transform: translateY(-50%);
   background: #ffffff;
   color: #c7b571;
