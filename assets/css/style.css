@@ -3903,7 +3903,7 @@ textarea.form-control {
   margin-top: 8px;
   color: #55191d;
 }
-.main-form .btn-primary.disabled,
+/* .main-form .btn-primary.disabled,
 .main-form .btn-primary:disabled {
   background: #55191d;
   border: 1px solid #55191d;
@@ -3913,7 +3913,7 @@ textarea.form-control {
   color: #55191d;
   background: transparent;
   border: 1px solid #55191d;
-}
+} */
 .main-form .sub-title {
   text-align: center;
   margin-bottom: 30px;
